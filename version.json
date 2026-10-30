@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.2",
+  "versionCode": 12,
+  "versionName": "2.3",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "WhatsApp auto-reply naye customer ko, Analytics (rush hours, graphs, top customers), Festival messages + reminder"
+  "notes": "Missed call pe WhatsApp follow-up + aaj ke missed calls list, Google review maangne wala message"
 }
