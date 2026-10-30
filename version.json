@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.4",
+  "versionCode": 14,
+  "versionName": "2.5",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Roz shaam 6 baje poori list Google Sheet me auto-sync"
+  "notes": "Sheet me sirf 10-digit number, duplicate rows kabhi nahi, asli naam overwrite nahi hota (Apps Script bhi update karo)"
 }
