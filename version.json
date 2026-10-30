@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "2.0",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Xiaomi/MIUI pe app khulte hi crash hone wala bug fix"
+  "notes": "Customer list (search/call/WhatsApp), bhule hue customer, block list, mahine ki report, dark mode, Hindi/Gujarati, Google Sheet sync"
 }
