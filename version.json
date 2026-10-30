@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "2.1",
+  "versionCode": 11,
+  "versionName": "2.2",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Ek click me saari permissions — battery ka seedha popup, notification ka seedha toggle, MI Autostart"
+  "notes": "WhatsApp auto-reply naye customer ko, Analytics (rush hours, graphs, top customers), Festival messages + reminder"
 }
