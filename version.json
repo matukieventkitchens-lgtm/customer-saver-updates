@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "2.0",
+  "versionCode": 10,
+  "versionName": "2.1",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Customer list (search/call/WhatsApp), bhule hue customer, block list, mahine ki report, dark mode, Hindi/Gujarati, Google Sheet sync"
+  "notes": "Ek click me saari permissions — battery ka seedha popup, notification ka seedha toggle, MI Autostart"
 }
