@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.3",
+  "versionCode": 13,
+  "versionName": "2.4",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Missed call pe WhatsApp follow-up + aaj ke missed calls list, Google review maangne wala message"
+  "notes": "Roz shaam 6 baje poori list Google Sheet me auto-sync"
 }
