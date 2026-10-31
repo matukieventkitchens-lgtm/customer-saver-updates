@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.6",
+  "versionCode": 16,
+  "versionName": "2.7",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Design polish: settings ab 6 chhote groups me, dark mode poora (dialogs bhi), buttons kabhi cut nahi hote, chhote bug fix"
+  "notes": "Google Sheet duplicate fix: purane script ke saath bhi naye duplicate nahi banenge; settings me script version dikhta hai"
 }
