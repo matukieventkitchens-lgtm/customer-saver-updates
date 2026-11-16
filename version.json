@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.8",
+  "versionCode": 18,
+  "versionName": "2.9",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Customer ka asli naam: WhatsApp profile naam, auto-reply me naam poochho, call ke baad notification me naam likho"
+  "notes": "MI phone pe baar-baar crash screen ka fix, ek jaise naam alag rahenge (Rahul, Rahul 2), Problem report button"
 }
