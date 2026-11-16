@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.7",
+  "versionCode": 17,
+  "versionName": "2.8",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "Google Sheet duplicate fix: purane script ke saath bhi naye duplicate nahi banenge; settings me script version dikhta hai"
+  "notes": "Customer ka asli naam: WhatsApp profile naam, auto-reply me naam poochho, call ke baad notification me naam likho"
 }
