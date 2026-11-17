@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.9",
+  "versionCode": 19,
+  "versionName": "3.0",
   "apkUrl": "https://raw.githubusercontent.com/matukieventkitchens-lgtm/customer-saver-updates/main/CustomerSaver.apk",
-  "notes": "MI phone pe baar-baar crash screen ka fix, ek jaise naam alag rahenge (Rahul, Rahul 2), Problem report button"
+  "notes": "Customer 0014 jaise bina naam wale customer ka WhatsApp aaye to app ek baar naam poochh ke Google Contacts me naam update karegi"
 }
